@@ -16,3 +16,34 @@ footer {
 	border-top: 8px;
 	border-top-color: #ddd;
 }
+
+.glyphicon {
+	color: #cdae51;
+}
+
+.active .glyphicon {
+	color: #3F2B22;
+}
+
+.btn-info {
+	background-color: #cdae51;
+	border-color: #3F2B22;
+	color: #fff;
+}
+
+.btn-info:hover {
+	color:#ffffff;
+	background-color:#3F2B22;
+	border-color:#333;
+}
+
+.tab-pane {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 0.8em;
+}
+
+span {
+	padding: 0.5em;
+}
